@@ -1,16 +1,16 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "--platform=",
-				"tag": "latest",
-				"digest": ""
-			},
-			{
-				"name": "openjdk",
-				"tag": "8-jre-alpine",
-				"digest": "f362b165b870ef129cbe730f29065ff37399c0aa8bcab3e44b51c302938c9193"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "--platform=",
+        "tag": "latest",
+        "digest": ""
+      },
+      {
+        "name": "openjdk",
+        "tag": "8-jre-alpine",
+        "digest": "f362b165b870ef129cbe730f29065ff37399c0aa8bcab3e44b51c302938c9193"
+      }
+    ]
+  }
 }
